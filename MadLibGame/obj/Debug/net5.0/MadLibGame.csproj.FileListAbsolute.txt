@@ -1,0 +1,15 @@
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\bin\Debug\net5.0\MadLibGame.deps.json
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\bin\Debug\net5.0\MadLibGame.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\bin\Debug\net5.0\ref\MadLibGame.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\bin\Debug\net5.0\MadLibGame.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\bin\Debug\net5.0\ConsoleLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\bin\Debug\net5.0\ConsoleLibrary.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.csproj.AssemblyReference.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.AssemblyInfoInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.AssemblyInfo.cs
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.csproj.CoreCompileInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.csproj.CopyComplete
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\ref\MadLibGame.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MadLibGame\obj\Debug\net5.0\MadLibGame.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3lw4dxgBXZ8/be7QFPP1RVqmmVdjwpuo8p5GirETnsawGaYc0XP7Ke3w4GWWk5Nootw/uv2FRCQDlbg4Ef5cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ldouglas\\OneDrive\\Year_2\\CSC160 Application Development\\CSC160\\WinFormsNotes\\WinFormsNotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldouglas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

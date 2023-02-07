@@ -1,0 +1,42 @@
+﻿<Window x:Class="WPF.Styles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="Styles" Height="500" Width="400">
+    <Window.Resources>
+        <Style x:Key="WindowTextStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="32" />
+            <Setter Property="FontFamily" Value="Wingdings" />
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <StackPanel.Resources>
+            <Style TargetType="TextBlock" x:Key="ElementTextStyle">
+                <Setter Property="FontFamily" Value="Courier" />
+                <Setter Property="FontSize" Value="24" />
+                <Setter Property="Foreground" Value="Red" />
+            </Style>
+        </StackPanel.Resources>
+        <TextBlock Text="Window Style!" Style="{StaticResource WindowTextStyle}" />
+        <!--<TextBlock Text="App Style!" FontSize="16" />-->
+        <TextBlock Text="App Style!" Style="{StaticResource AppTextStyle}"/>
+        <TextBlock Text="Element Style" Style="{StaticResource ElementTextStyle}"/>
+        <TextBlock Text="Styling">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="Foreground" Value="Red"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="FontWeight" Value="Light"/>
+                            <Setter Property="Foreground" Value="Blue"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </StackPanel>
+</Window>

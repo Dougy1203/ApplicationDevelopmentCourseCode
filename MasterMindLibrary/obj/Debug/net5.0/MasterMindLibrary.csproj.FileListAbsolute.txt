@@ -1,0 +1,23 @@
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\bin\Debug\net5.0\MasterMindLibrary.deps.json
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\bin\Debug\net5.0\MasterMindLibrary.dll
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\bin\Debug\net5.0\ref\MasterMindLibrary.dll
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\bin\Debug\net5.0\MasterMindLibrary.pdb
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.AssemblyInfoInputs.cache
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.AssemblyInfo.cs
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.dll
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\ref\MasterMindLibrary.dll
+C:\Users\Pib\Desktop\CS160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\bin\Debug\net5.0\MasterMindLibrary.deps.json
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\bin\Debug\net5.0\MasterMindLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\bin\Debug\net5.0\ref\MasterMindLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\bin\Debug\net5.0\MasterMindLibrary.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.csproj.AssemblyReference.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.AssemblyInfoInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.AssemblyInfo.cs
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\ref\MasterMindLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMindLibrary\obj\Debug\net5.0\MasterMindLibrary.pdb

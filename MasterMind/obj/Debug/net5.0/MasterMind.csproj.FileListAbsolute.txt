@@ -1,0 +1,38 @@
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMind.exe
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMind.deps.json
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.json
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.dev.json
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMind.dll
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\ref\MasterMind.dll
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMind.pdb
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.csproj.AssemblyReference.cache
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfoInputs.cache
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfo.cs
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CopyComplete
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.dll
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\ref\MasterMind.dll
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.pdb
+C:\Users\Pib\Desktop\CS160\MasterMind\obj\Debug\net5.0\MasterMind.genruntimeconfig.cache
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMindLibrary.dll
+C:\Users\Pib\Desktop\CS160\MasterMind\bin\Debug\net5.0\MasterMindLibrary.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMind.exe
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMind.deps.json
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.json
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.dev.json
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMind.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\ref\MasterMind.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMind.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMindLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\bin\Debug\net5.0\MasterMindLibrary.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.csproj.AssemblyReference.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfoInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfo.cs
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CopyComplete
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\ref\MasterMind.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\MasterMind\obj\Debug\net5.0\MasterMind.genruntimeconfig.cache

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Controls.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DataBinding.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DB.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Panels.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Resources.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Styles.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\TextBoxLimiter.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="NamesDS.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Controls.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DataBinding.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DB.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Panels.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\TextBoxLimiter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

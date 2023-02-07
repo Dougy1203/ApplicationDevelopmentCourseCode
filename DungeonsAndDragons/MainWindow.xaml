@@ -1,0 +1,75 @@
+﻿<Window x:Class="DungeonsAndDragons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DungeonsAndDragons"
+        xmlns:uc="clr-namespace:DungeonsAndDragons.UserControls"
+        mc:Ignorable="d"
+        Title="DnD Character Generator" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="FontSize" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="35"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <Style x:Key="WhiteText" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <Style x:Key="TextAlignment" TargetType="TextBlock">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+    </Window.Resources>
+    <DockPanel>
+        <DockPanel.Background>
+            <ImageBrush ImageSource="Resources/DnD_Background3.png"/>
+        </DockPanel.Background>
+        <TextBlock x:Name="NameBlock" Text="{Binding Path=Text, ElementName=tboxName}" FontSize="20" DockPanel.Dock="Top"/>
+        <uc:Footer FooterText="It would be like, really illegal to use this wrong. So maybe don't?? We'd have to reach out about your car's warranty if you do." DockPanel.Dock="Bottom"/>
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="txtName" Text="Name:" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="0" Style="{StaticResource FontSize}"/>
+            <TextBox x:Name="tboxName" VerticalAlignment="Stretch" Foreground="White" Background="Transparent" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="0" TextAlignment="Center" FontSize="35" />
+            <TextBlock x:Name="txtAge" Text="Age:" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="0" Grid.Row="1" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="lblAge" Text="{DynamicResource Age}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="35" TextAlignment="Center" Grid.Column="1" Grid.Row="1" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="txtGender" Text="Gender:" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="0" Grid.Row="2" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="lblGender" Text="{DynamicResource Gender}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="1" Grid.Row="2" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="txtClass" Text="Class:" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="0" Grid.Row="3" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="lblClass" Text="{DynamicResource Class}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="1" Grid.Row="3" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="txtRace" Text="Race:" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="0" Grid.Row="4" Style="{StaticResource FontSize}"/>
+            <TextBlock x:Name="lblRace" Text="{DynamicResource Race}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Grid.Column="1" Grid.Row="4" Style="{StaticResource FontSize}"/>
+            
+            
+            
+            <TextBlock x:Name="txtStrength" Text="Strength" TextAlignment="Center" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Left" Width="126" Height="20" Grid.Column="0" Grid.Row="5" Style="{StaticResource WhiteText}"/>
+            <TextBlock x:Name="lblStrength" Text="{DynamicResource Strength}" Style="{StaticResource TextAlignment}" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="126" Height="20" Grid.Column="0" Grid.Row="5"/>
+            <TextBlock x:Name="txtDexterity" Text="Dexterity" TextAlignment="Center" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Center" Width="126" Height="20" Grid.Column="0" Grid.Row="5" Style="{StaticResource WhiteText}"/>
+            <TextBlock x:Name="lblDexterity" Text="{DynamicResource Dexterity}" Style="{StaticResource TextAlignment}" VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="126" Height="20" Grid.Column="0" Grid.Row="5"/>
+            <TextBlock x:Name="txtConstitution" Text="Constitution" TextAlignment="Center" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Right" Width="126" Height="20" Grid.Column="0" Grid.Row="5" Style="{StaticResource WhiteText}"/>
+            <TextBlock x:Name="lblConstitution" Text="{DynamicResource Constitution}" Style="{StaticResource TextAlignment}" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="126" Height="20" Grid.Column="0" Grid.Row="5"/>
+            <TextBlock x:Name="txtCharisma" Text="Charisma" TextAlignment="Center" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Left" Width="126" Height="20" Grid.Column="1" Grid.Row="5" Style="{StaticResource WhiteText}"/>
+            <TextBlock x:Name="lblCharisma" Text="{DynamicResource Charisma}" Style="{StaticResource TextAlignment}" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="126" Height="20" Grid.Column="1" Grid.Row="5"/>
+            <TextBlock x:Name="txtIntelligence" Text="Intelligence" TextAlignment="Center" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Center" Width="126" Height="20" Grid.Column="1" Grid.Row="5" Style="{StaticResource WhiteText}"/>
+            <TextBlock x:Name="lblIntelligence" Text="{DynamicResource Intelligence}" Style="{StaticResource TextAlignment}" VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="126" Height="20" Grid.Column="1" Grid.Row="5"/>
+            <TextBlock x:Name="txtWisdom" Text="Wisdom" TextAlignment="Center" FontSize="15" VerticalAlignment="Top" HorizontalAlignment="Right" Width="126" Height="20" Grid.Column="1" Grid.Row="5" Style="{StaticResource WhiteText}"/>
+            <TextBlock x:Name="lblWisdom" Text="{DynamicResource Wisdom}" Style="{StaticResource TextAlignment}" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="126" Height="20" Grid.Column="1" Grid.Row="5"/>
+
+            <Button x:Name="btnRandom" Content="{DynamicResource btnRandom}" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200" Height="40" Grid.Column="0" Grid.Row="6" Click="btnRandom_Click"/>
+            <Button x:Name="btnSave" Grid.Column ="0" Grid.ColumnSpan="2" Grid.Row="6" Width="100" Height="25" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Center" Content="{DynamicResource SaveState}" Click="BtnSave_OnClick" />
+            <Button x:Name="btnExit" Grid.Column ="0" Grid.ColumnSpan="2" Grid.Row="6" Width="100" Height="25" FontSize="18" VerticalAlignment="Bottom" HorizontalAlignment="Center" Content="Exit" Click="BtnExit_OnClick" />
+            <Button x:Name="Saved" Content="Saved Characters" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200" Height="40" Grid.Column="1" Grid.Row="6" Click="Saved_OnClick"/>
+        </Grid>
+    </DockPanel>
+</Window>

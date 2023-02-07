@@ -1,0 +1,12 @@
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\bin\Debug\net5.0\ConsoleLibrary.deps.json
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\bin\Debug\net5.0\ConsoleLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\bin\Debug\net5.0\ref\ConsoleLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\bin\Debug\net5.0\ConsoleLibrary.pdb
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.csproj.AssemblyReference.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.AssemblyInfoInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.AssemblyInfo.cs
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ref\ConsoleLibrary.dll
+C:\Users\ldouglas\OneDrive\Year_2\Application Development\CSC160\ConsoleLibrary\obj\Debug\net5.0\ConsoleLibrary.pdb

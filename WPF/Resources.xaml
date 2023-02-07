@@ -1,0 +1,45 @@
+﻿<Window x:Class="WPF.Resources"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="Resources" Height="500" Width="400">
+    <Window.Resources>
+        <sys:String x:Key="CompanyName">My Big Company</sys:String>
+        <SolidColorBrush x:Key="CompanyColor" Color="Orange"/>
+        <x:Array x:Key="Employees" Type="sys:String">
+            <sys:String>Paul</sys:String>
+            <sys:String>Rick</sys:String>
+            <sys:String>Anderson</sys:String>
+        </x:Array>
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <TextBlock Text="{StaticResource CompanyName}"
+                   HorizontalAlignment="Center" FontSize="32"
+                   Foreground="{StaticResource CompanyColor}"/>
+        <ListBox ItemsSource="{StaticResource Employees}" Margin="0 10"/>
+        <!-- App Variable -->
+        <TextBlock Text="{StaticResource AppSting}"/>
+        <StackPanel>
+            <StackPanel.Resources>
+                <!--Panel Scope Variables-->
+                <sys:String x:Key="SPResource">StackPanel Static Var</sys:String>
+            </StackPanel.Resources>
+            <TextBlock Text="{StaticResource SPResource}"/>
+        </StackPanel>
+        
+        <!--Access Resources in C# Code-->
+        <Button x:Name="btnResourceStatic" Content="Click Me" Width="100"
+                Background="{StaticResource CompanyColor}"/>
+        
+        <!-- Dynamic Resources -->
+        <Button x:Name="btnResourceDynamic"
+                Content="{DynamicResource Boogers}" Height="22" Width="100"
+                Background="{DynamicResource CompanyColor}"/>
+        <Button x:Name="btnChangeColor" Content="Change Color"
+                Width="100" Click="btnChangeColor_Click"/>
+    </StackPanel>
+</Window>

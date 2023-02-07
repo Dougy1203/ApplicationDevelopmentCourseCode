@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqxEvIY8zMPADEy0wF0vcNzoOM74+wzeZw6pb2qGSTEsp8k+iXs3aJFLOY0WQUalVcbfHiOxFTdnWKYU2WJTHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ldouglas\\OneDrive\\Year_2\\CSC160 Application Development\\CSC160\\NumberGuesser\\NumberGuesser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldouglas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

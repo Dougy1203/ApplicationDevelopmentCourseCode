@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1DRELJ+cXvas/wJIYhEFRUqYUGBKuPldaeSnED7CGlFYpd9/97d8zx7euQOwjypa4xli54g+Dv+fQWda2btDOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ldouglas\\OneDrive\\Year_2\\CSC160 Application Development\\CSC160\\MadLibsGame\\MadLibsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldouglas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

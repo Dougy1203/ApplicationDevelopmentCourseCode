@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\D20.jpg" />
+    <Resource Include="Resources\D20.jpg" />
+    <None Remove="Resources\DnD-Background.jpg" />
+    <Resource Include="Resources\DnD-Background.jpg" />
+    <None Remove="Resources\DnD_Background2.png" />
+    <Resource Include="Resources\DnD_Background2.png" />
+    <None Remove="Resources\DnD_Background3.png" />
+    <Resource Include="Resources\DnD_Background3.png" />
+    <None Remove="Resources\transparent.png" />
+    <Resource Include="Resources\transparent.png" />
+    <None Remove="Resources\resources\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\redSmoke.jpg" />
+    <Content Include="Resources\redSmoke.jpg" />
+    <None Remove="Resources\transparent.jpg" />
+    <Content Include="Resources\transparent.jpg" />
+    <None Remove="Resources\transparentAttempt.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="blackJack.xaml" />
+    <Page Remove="Resources\resources\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="blackJack.xaml.cs" />
+    <Compile Remove="Resources\resources\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Resources\resources\**" />
+  </ItemGroup>
+
+</Project>

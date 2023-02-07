@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jc1x04twVSqMsEjlcmGODeQbw40R71keAbW4OQiyR7K1VGUPNf8uHepZddprjCDIxccbRfCdArFf/RqDJnDtWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ldouglas\\OneDrive\\Year_2\\CSC160 Application Development\\CSC160\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldouglas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
